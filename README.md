@@ -65,19 +65,27 @@ npx expo start
 ```
 
 ## 🔗 Expo Snack
-> Tempel kode `App.js` di [snack.expo.dev](https://snack.expo.dev/@vnderbilts/note-keeper), tambahkan dependency
+> Tempel kode `App.js` di [snack.expo.dev](https://snack.expo.dev), tambahkan dependency
 > `@react-native-async-storage/async-storage` di panel Dependencies, lalu copy link Snack-mu di sini:
 >
 > **Link Expo Snack: `<isi link Snack kamu di sini>`**
 
 ## 📱 Bukti Pengujian (4 Test Case + Fitur Level 2)
 
-| Test Case | Status | Screenshot |
-|---|---|---|
-| Create — tambah tugas baru | ✅ | `screenshots/create.png` |
-| Update — toggle selesai / edit teks | ✅ | `screenshots/update.png` |
-| Delete — hapus tugas + konfirmasi | ✅ | `screenshots/delete.png` |
-| Fitur Level 2 (Dark Mode / Search / Statistik) | ✅ | `screenshots/dark.png` |
+> Letakkan file screenshot dengan nama persis seperti di bawah ini di dalam folder `screenshots/` —
+> gambar akan otomatis tampil sebagai preview di README ini (di GitHub).
+
+### 1️⃣ Create — tambah tugas baru
+![Create](screenshots/create.jpg)
+
+### 2️⃣ Update — toggle selesai / edit teks
+![Update](screenshots/update.jpg)
+
+### 3️⃣ Delete — konfirmasi hapus
+![Delete](screenshots/delete.jpg)
+
+### 4️⃣ Fitur Level 2 (Dark Mode / Search / Statistik)
+![Fitur Level 2](screenshots/dark.jpg)
 
 **Cara mengambil bukti persistensi:**
 1. Buka app, tambahkan beberapa tugas.
