@@ -65,7 +65,7 @@ npx expo start
 ```
 
 ## 🔗 Expo Snack
-> Tempel kode `App.js` di [snack.expo.dev](https://snack.expo.dev), tambahkan dependency
+> Tempel kode `App.js` di [snack.expo.dev](https://snack.expo.dev/@vnderbilts/note-keeper), tambahkan dependency
 > `@react-native-async-storage/async-storage` di panel Dependencies, lalu copy link Snack-mu di sini:
 >
 > **Link Expo Snack: `<isi link Snack kamu di sini>`**
